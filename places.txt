@@ -1,25 +1,69 @@
-4
-Scott
-Hometown: New Virginia, IA
-41.156537
--93.7107200
+13
+Abby
+Hometown: Berea, KY
+37.555000
+-84.208150
 darkblue
-Scott
-Awesome city: Edinburgh, Scotland
-55.950190
--3.187550
+Morgan
+Hometown: Campbellsville, KY
+37.347969
+-85.348091
 lightgreen
-Emily
-Hometown: Pittsburgh, PA
-40.932850
--80.358543
-orange
-Emily
-Most Interesting Place: Reykjavik, Iceland
-64.147210
--21.942400
+Jessie
+Hometown: Danville, KY
+37.645634
+-84.772171
+purple
+Abby, Morgan
+Interesting Place: Las Vegas, Nevada
+36.1699
+-115.1398
+yellow
+Jessie
+Loneliest Place: Saint George's Island, FL
+29.6585
+-84.8802
+purple
+Morgan
+Spookiest Place: Salem, MA
+42.5195
+-70.8967
+lightgreen
+Abby
+Future Travel Place: Rome, Italy
+41.9028
+12.4964
+darkblue
+Jessie
+Future Living Place: San Francisco, CA
+37.7749
+-122.4194
+purple
+Morgan
+Future Travel Place: Toledo, Spain
+39.8628
+-4.0273
+lightgreen
+Abby
+Move It Move It Place: Madagascar
+-18.7669
+46.8691
+darkblue
+Jessie
+Future Cold Place: Ireland
+53.1424
+-7.6921
+purple
+Jessie
+Future Below Border Place: Brazil
+-14.2350
+-51.9253
+purple
+Jessie, Abby, Morgan
+NOPE Place: Australia
+-25.2744
+133.7751
 red
-
 
 # NOTES:
 # 1) The first number represents the number of entries in the file. Make sure you update that number if you add more.
